@@ -103,7 +103,7 @@ body, html {
     <!-- Hide this text on small devices -->
                                                                        <!-- 7. 자기소개  -->
     <div class="w3-col m6 w3-hide-small w3-padding-large">
-        <p>제 이름은 이형섭 입니다. </p>
+        <p>제 이름은 이미림 입니다. </p>
         <p>미림마이스터고에서 프로그래밍을 가르치고 있습니다.</p>
     </div>
   </div>
